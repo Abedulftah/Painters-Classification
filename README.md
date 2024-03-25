@@ -1,4 +1,4 @@
-Image Painting Classifier
+# Image Painting Classifier
 Overview
 This project aims to classify two images of paintings, determining whether they belong to the same artist or not. By utilizing deep learning techniques and image processing algorithms, the system can analyze the visual features of paintings and make predictions based on similarities and differences between them.
 
