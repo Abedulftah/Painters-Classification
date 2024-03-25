@@ -1,4 +1,4 @@
-Description
+<head>Description</head>
 
 With an original Picasso carrying a 106 million dollar price tag, identifying an authentic work of art from a forgery is a high-stakes industry. While algorithms have gotten good at telling us if a still life is of a basket of apples or a sunflower bouquet, they aren't yet able to tell us with certainty if both paintings are by van Gogh.  
 
