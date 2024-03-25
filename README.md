@@ -6,9 +6,9 @@ This project aims to classify two images of paintings, determining whether they 
 Art authentication and attribution have been longstanding challenges in the art world. This project addresses these issues by leveraging machine learning to automate the process of determining the authorship of paintings. By providing a reliable tool for art experts and enthusiasts, we aim to enhance the efficiency and accuracy of art authentication processes.
 
 ## Features
-Image preprocessing: The system preprocesses input images to enhance features and remove noise, ensuring better classification accuracy.
-Deep learning model: A convolutional neural network (CNN) is employed to extract meaningful features from the images and make predictions about their authorship.
-User-friendly interface: The system provides a simple and intuitive interface for users to upload images and receive classification results.
+- Image preprocessing: The system preprocesses input images to enhance features and remove noise, ensuring better classification accuracy.
+- Deep learning model: A convolutional neural network (CNN) is employed to extract meaningful features from the images and make predictions about their authorship.
+- User-friendly interface: The system provides a simple and intuitive interface for users to upload images and receive classification results.
 
 ## Model Performance
 The model achieves an accuracy of [insert accuracy percentage] on the test set, demonstrating its effectiveness in classifying paintings.
