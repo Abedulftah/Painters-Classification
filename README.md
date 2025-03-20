@@ -10,8 +10,6 @@ Art authentication and attribution have been longstanding challenges in the art 
 - Deep learning model: A convolutional neural network (CNN) is employed to extract meaningful features from the images and make predictions about their authorship.
 - User-friendly interface: The system provides a simple and intuitive interface for users to upload images and receive classification results.
 
-## Model Performance
-The model achieves an accuracy of [insert accuracy percentage] on the test set, demonstrating its effectiveness in classifying paintings.
 
 ## Future Enhancements
 Incorporating transfer learning techniques to improve model performance with limited data.
